@@ -1,4 +1,4 @@
-// Jose Tlacuilo
+// Zwerltic
 // 02/02/2016
 // Euler problem 3
 // Palindrome numbers get the highest from two three digit factors

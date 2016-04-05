@@ -1,4 +1,4 @@
-// Jose Tlacuilo
+// Zwerltic
 // PEuler Ex 7
 // 10 001 st prime 
 

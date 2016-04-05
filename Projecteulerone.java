@@ -1,5 +1,4 @@
-// Jose Tlacuilo
-// A01420128
+// Zwerltic
 // 29/01/2016
 
 public class Projecteulerone {

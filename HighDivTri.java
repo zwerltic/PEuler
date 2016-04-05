@@ -1,5 +1,5 @@
 // P Euler
-// Jose Tlacuilo
+// Zwerltic
 
 public class HighDivTri
 {

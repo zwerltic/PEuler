@@ -1,4 +1,4 @@
-// Jose Tlacuilo
+// Zwerltic
 // Project Euler of grid 20x20
 // Greatest product 4 numbers in diagonal
 

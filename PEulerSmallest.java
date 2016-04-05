@@ -1,4 +1,4 @@
-// Jose TLacuilo
+// Zwerltic
 // Project Euler
 // 2-9-2016
 // Smallest multiple from 10 to 1 smallest is 2520

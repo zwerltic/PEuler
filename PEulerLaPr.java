@@ -1,4 +1,4 @@
-// Jose Tlacuilo
+// Zwerltic
 // PEuler
 // Largest Product in a series
 // Given requiered num of adjacent digits find the greatest product

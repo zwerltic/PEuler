@@ -1,4 +1,4 @@
-// Jose Tlacuilo
+// Zwerltic
 // PEuler
 // Summation of primes
 
