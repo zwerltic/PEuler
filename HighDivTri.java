@@ -1,7 +1,7 @@
 // P Euler
 // Jose Tlacuilo
 
-public HighDivTri
+public class HighDivTri
 {
 	public static void main(String[] args)
 	{
@@ -10,10 +10,10 @@ public HighDivTri
 		int f = 0;
 		while (f < 500)
 		{
-			c++
+			c++;
 			numb = numb + c;
 			System.out.println("Tri: " + numb + "nInt: " + c);
-			f = Math.max(f, findFactors(numb);
+			f = Math.max(f, findFactors(numb));
 			System.out.println("f: " + f);	
 		} 
 	}
@@ -21,12 +21,13 @@ public HighDivTri
 	public static int findFactors(int numb)
 	{
 		int res = 0;
-		for (int i = 1; i <= numb/2; i++)
+		for (int i = 1; i <= numb; i++)
 		{
-			if (numb % res == 0)
+			if (numb % i == 0)
 			{	
-				res = res + 2;
+				res++;
 			}	
 		} 
+		return res;
 	}
 }
